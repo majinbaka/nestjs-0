@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "bycrypt",
+        "lcov",
+        "sonarqube"
+    ],
+    "cSpell.enableFiletypes": [
+        "!markdown"
+    ]
+}
